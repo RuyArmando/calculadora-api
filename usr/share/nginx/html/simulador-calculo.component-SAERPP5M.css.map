@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/components/simulador-calculo/simulador-calculo.component.scss"],
+  "sourcesContent": [":host ::ng-deep br-accordion * {\n    border: none !important;\n}"],
+  "mappings": "AAAA,MAAA,UAAA,aAAA,EACI,OAAA",
+  "names": []
+}

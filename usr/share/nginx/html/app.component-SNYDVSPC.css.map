@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/app.component.scss"],
+  "sourcesContent": ["\n.portal-layout ::ng-deep .br-header  {\n    //z-index: 1051 !important; // cobre somente o select\n    z-index: 1052 !important; // cobre o select e o datepicker\n}\n"],
+  "mappings": "AACA,CAAA,cAAA,UAAA,CAAA,UAEI,QAAA",
+  "names": []
+}
